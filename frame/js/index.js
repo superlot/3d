@@ -49,7 +49,7 @@ $(document).ready(function() {
 		      var selectors = [
 		        "iframe[src^='https://superlot.github.io']", 
 		        "iframe[src^='https://superlot.github.io']", 
-		        "iframe[src^='https://superlot.github.io']", 
+		        "iframe[src^='https://superlot.github.io/3d/smart-car/smart-car.html']", 
 		        "iframe[src^='https://superlot.github.io']", 
 		        "object", 
 		        "embed"
