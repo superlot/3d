@@ -48,7 +48,7 @@ $(document).ready(function() {
 		    return this.each(function(){
 		      var selectors = [
 		        "iframe[src^='https://superlot.github.io/3d/smart-car/smart-car.html']", 
-		      
+		       "iframe[src^='https://superlot.github.io']", 
 		        "object", 
 		        "embed"
 		      ];
